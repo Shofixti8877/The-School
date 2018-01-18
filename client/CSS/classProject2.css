@@ -1,0 +1,142 @@
+
+div{
+  font-family: 'Dosis', sans-serif;
+  font-size: 20px;
+}
+#header{
+  background-color: lightgreen;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 10px;
+  position: relative;
+  font-family: 'Dosis', sans-serif;
+  font-size: 15px;
+
+}
+.hb{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-20%);
+}
+.clickable{
+   text-decoration: underline;
+   cursor: pointer;
+}
+.form-signin{
+  max-width: 330px;
+}
+#b1{
+  max-width:150px;
+}
+
+#logo{
+  width: 110px;
+
+}
+.paddingdiv{
+  height: 100px;
+}
+span{
+  padding-top:40px;
+}
+#addCourse{
+  padding-top: 0px;
+  cursor: pointer;
+}
+#addStudent{
+  padding-top: 0px;
+  cursor: pointer;
+}
+#addAdmin{
+    padding-top: 0px;
+    cursor: pointer;
+
+}
+
+.dataDisplay{
+  background-color: blue;
+  margin-left: 10px;
+}
+#students{
+  min-height: 450px;
+  height: auto;
+}
+#courses{
+  min-height: 450px;
+  height: auto;
+}
+#admins{
+  min-height: 450px;
+  height: auto;
+}
+#main{
+  margin-left: 10px;
+  background-color: lightblue;
+  height:auto;
+  min-height: 450px;
+}
+.click{
+  cursor: pointer;
+  list-style: none;
+  text-align: left;
+  margin-left: 0;
+  padding-left: 0;
+}
+ul{
+  margin-left: 0;
+  padding-left: 0;
+}
+
+
+.b1{
+  float: right;
+  margin-top: 20px;
+}
+#editStudent{
+  float: right;
+  margin-top: 10px;
+}
+#editCourse{
+  float: right;
+  margin-top: 10px;
+}
+#editAdmin{
+  float: right;
+  margin-top: 10px;
+}
+h3{
+  position: absolute;
+}
+h4{
+  position: absolute;
+}
+
+.rounded {
+  border-radius: 10px;
+
+}
+.imgUpload{
+  width: 100px;
+  height: 100px;
+  border-color: transparent;
+}
+.si{
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+li{
+  list-style: none;
+  margin-bottom: 2px;
+  text-align: left;
+  margin-left: 0;
+  padding-left: 0;
+
+}
+.ss{
+  padding-top: 5px;
+}
+.dispImg{
+  width: 100px;
+  height: 100px;
+}
